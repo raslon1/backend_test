@@ -13,6 +13,8 @@ $ pip3 install -r requirements.txt
 $ ./manage.py createsuperuser
 $ ./manage.py runserver
 ```
+Need to add workers and retail outlets
+
 
 ### Develop using Docker
 
